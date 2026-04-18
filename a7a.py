@@ -1,1 +1,3 @@
-print("Hello, World!")
+def display():
+    print("Hello World")
+display()
